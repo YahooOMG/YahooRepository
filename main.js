@@ -13,7 +13,7 @@ $(document).ready(function(){
           'citizen',
           'citizen'
         ];
-  var killButton = "<span><button name='button' class='kill'>Kill</button></span>";
+  var killButton = "<span class='kill'><button name='button'>Kill</button></span>";
 
 $('#rolify').on('click',function(){
 
