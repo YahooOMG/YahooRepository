@@ -1,0 +1,25 @@
+ol{
+    font-size: 1em;
+    background-color: #ccc;
+    margin: 1em;
+    padding: 2em;
+}
+
+#rolify {
+   font-size: 1.5em;
+    background-color: #ccc;
+    margin: 1em;
+    padding: 1em;
+}
+
+.nickname {
+    font-size: 1.5em;
+  width: 60%;
+   margin: 1em;
+}
+.kill {
+}
+
+span{
+  padding: 10px;
+}
